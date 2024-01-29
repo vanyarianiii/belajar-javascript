@@ -3,6 +3,7 @@ var y ="3.14";
 
 var toNum = parseInt(x);
 var toFlat = parseFloat(y);
+var toString = toNum.toString();
  
 function jumlah;(a, b) {
    return a + b;
